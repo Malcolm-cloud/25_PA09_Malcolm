@@ -1,0 +1,10 @@
+C:\Users\Malcolm\Desktop\25_Malcolm_PA9\25_Malcolm_PA09\25_Malcolm_PA09\bin\Debug\25_Malcolm_PA09.exe.config
+C:\Users\Malcolm\Desktop\25_Malcolm_PA9\25_Malcolm_PA09\25_Malcolm_PA09\bin\Debug\25_Malcolm_PA09.exe
+C:\Users\Malcolm\Desktop\25_Malcolm_PA9\25_Malcolm_PA09\25_Malcolm_PA09\bin\Debug\25_Malcolm_PA09.pdb
+C:\Users\Malcolm\Desktop\25_Malcolm_PA9\25_Malcolm_PA09\25_Malcolm_PA09\obj\Debug\25_Malcolm_PA09.csprojAssemblyReference.cache
+C:\Users\Malcolm\Desktop\25_Malcolm_PA9\25_Malcolm_PA09\25_Malcolm_PA09\obj\Debug\_25_Malcolm_PA09.Form1.resources
+C:\Users\Malcolm\Desktop\25_Malcolm_PA9\25_Malcolm_PA09\25_Malcolm_PA09\obj\Debug\_25_Malcolm_PA09.Properties.Resources.resources
+C:\Users\Malcolm\Desktop\25_Malcolm_PA9\25_Malcolm_PA09\25_Malcolm_PA09\obj\Debug\25_Malcolm_PA09.csproj.GenerateResource.cache
+C:\Users\Malcolm\Desktop\25_Malcolm_PA9\25_Malcolm_PA09\25_Malcolm_PA09\obj\Debug\25_Malcolm_PA09.csproj.CoreCompileInputs.cache
+C:\Users\Malcolm\Desktop\25_Malcolm_PA9\25_Malcolm_PA09\25_Malcolm_PA09\obj\Debug\25_Malcolm_PA09.exe
+C:\Users\Malcolm\Desktop\25_Malcolm_PA9\25_Malcolm_PA09\25_Malcolm_PA09\obj\Debug\25_Malcolm_PA09.pdb
